@@ -104,6 +104,14 @@ export default {
       ...sharedNetworkConfig,
       url: "https://xdai.poanetwork.dev",
     },
+    moonbeamdev: {
+      ...sharedNetworkConfig,
+      url: `http://localhost:9933`,
+    },
+    moonbase: {
+      ...sharedNetworkConfig,
+      url: `https://rpc.testnet.moonbeam.network`,
+    },
   },
   namedAccounts: {
     // Note: accounts defined by a number refer to the the accounts as configured

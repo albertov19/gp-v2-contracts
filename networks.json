@@ -10,6 +10,14 @@
     "100": {
       "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67",
       "transactionHash": "0xe52d425fe34d6d5215ccfc9ddfa485d490b3018f0ee5bbed708f2d172044d60d"
+    },
+    "1281": {
+      "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67",
+      "transactionHash": "0x7e15fabb78b996ab5837cb5a49d064425ded265cc6525e556886dd20328aaac6"
+    },
+    "1287": {
+      "address": "0x9E7Ae8Bdba9AA346739792d219a808884996Db67",
+      "transactionHash": "0xa0dd5db604f775e72042cbca1dde978229fcd1dce108970328eefecf101ddeb9"
     }
   },
   "GPv2AllowListAuthentication_Proxy": {
@@ -24,6 +32,14 @@
     "100": {
       "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE",
       "transactionHash": "0x1a2d87a05a94bc6680a4faee31bbafbd74e9ddb63dd3941c717b5c609c08b957"
+    },
+    "1281": {
+      "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE",
+      "transactionHash": "0x942c631c3a299a24887d8ca27ee1d7f91845a59cf225703d5dafe572d9fcb649"
+    },
+    "1287": {
+      "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE",
+      "transactionHash": "0xffa58da14fb8cc0b8cc5d3489ac7a18866e929f1f248ddb7f40e6e43f344e72b"
     }
   },
   "GPv2AllowListAuthentication": {
@@ -38,6 +54,14 @@
     "100": {
       "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE",
       "transactionHash": "0x1a2d87a05a94bc6680a4faee31bbafbd74e9ddb63dd3941c717b5c609c08b957"
+    },
+    "1281": {
+      "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE",
+      "transactionHash": "0x942c631c3a299a24887d8ca27ee1d7f91845a59cf225703d5dafe572d9fcb649"
+    },
+    "1287": {
+      "address": "0x2c4c28DDBdAc9C5E7055b4C863b72eA0149D8aFE",
+      "transactionHash": "0xffa58da14fb8cc0b8cc5d3489ac7a18866e929f1f248ddb7f40e6e43f344e72b"
     }
   },
   "GPv2Settlement": {
@@ -52,6 +76,14 @@
     "100": {
       "address": "0x9008D19f58AAbD9eD0D60971565AA8510560ab41",
       "transactionHash": "0x9ddc538f89cd8433f4a19bc4de0de27e7c68a1d04a14b327185e4bba9af87133"
+    },
+    "1281": {
+      "address": "0xB70121415124Cd8ffB533227Efdf152DAb1C5B64",
+      "transactionHash": "0x8ccbb3f57250120ba763d6dcf656e3ddf12dc40f1123fd57e41cee4be0a19a9d"
+    },
+    "1287": {
+      "address": "0xf5d7326D17F760c90D44975bB74264BE05D2048d",
+      "transactionHash": "0xb1585f1dd75e2d4b3dbcf6959c35b642b9561e09300a9369c4c327be609226d1"
     }
   },
   "GPv2VaultRelayer": {
@@ -66,6 +98,44 @@
     "100": {
       "address": "0xC92E8bdf79f0507f65a392b0ab4667716BFE0110",
       "transactionHash": "0x9ddc538f89cd8433f4a19bc4de0de27e7c68a1d04a14b327185e4bba9af87133"
+    },
+    "1281": {
+      "address": "0xdD40dc99D2b27D246c9f6382D4b6b5160dCF46De",
+      "transactionHash": "0x8ccbb3f57250120ba763d6dcf656e3ddf12dc40f1123fd57e41cee4be0a19a9d"
+    },
+    "1287": {
+      "address": "0xBff750A808086b714421f649D88346150Af9CdFC",
+      "transactionHash": "0xb1585f1dd75e2d4b3dbcf6959c35b642b9561e09300a9369c4c327be609226d1"
+    }
+  },
+  "VaultAuthorizer": {
+    "1281": {
+      "address": "0xF8cef78E923919054037a1D03662bBD884fF4edf",
+      "transactionHash": "0x9ec10142c4c0e9aa0958b52e7ad174a61045341e5e5046a40a67282a6ec9628b"
+    },
+    "1287": {
+      "address": "0x8A6D8D2F183ba452C31a98E6a34c3A8fEF1b4364",
+      "transactionHash": "0xedfbe3257e4ace8d85a16fdda6d3dfa3d39f46005bf44ca56eb401e4e6d07fa4"
+    }
+  },
+  "WETH": {
+    "1281": {
+      "address": "0xe573BCA813c741229ffB2488F7856C6cAa841041",
+      "transactionHash": "0x80340d3b3bb46e407017c949cd371c4b152df741807e6cafc14d01d428c715db"
+    },
+    "1287": {
+      "address": "0x3dcFF6F08BAF9fC16199DB91347CB210B36160c8",
+      "transactionHash": "0x8b3391755b28eb485759b24bb87fe9241c06125e4819d821d71f367c9a4a94b2"
+    }
+  },
+  "Vault": {
+    "1281": {
+      "address": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5",
+      "transactionHash": "0xb23198bddcaa15bee4f6497f93ec0f12c151f808d214cea8cf110651e2e48cb2"
+    },
+    "1287": {
+      "address": "0x3DB0bdcfA4e774150bDA0aa96671cdC22B7673Fb",
+      "transactionHash": "0xb2fe38698650bf7960e502730ced7b179990042dde468335c3a30182d4f5e2a3"
     }
   }
 }

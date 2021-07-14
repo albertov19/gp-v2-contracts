@@ -20,7 +20,11 @@ const deploySettlement: DeployFunction = async function ({
   const { address: authenticatorAddress } = await get(authenticator);
 
   let vaultAddress: string;
-  if (network.name === "hardhat") {
+  if (
+    network.name === "hardhat" ||
+    network.name === "moonbeamdev" ||
+    network.name === "moonbase"
+  ) {
     const { address: authorizerAddress } = await deploy("VaultAuthorizer", {
       from: deployer,
       contract: Authorizer,
